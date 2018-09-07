@@ -1,6 +1,6 @@
 # challenger
 
-An introductory web application that uses the Crystal programming language and the framework Kermal. The application works by authenticating a user's JWTs on Auth0 for storing login information and providing a front-end. The tutorial I followed on DZone was created by Robin Percy.
+An introductory web application that uses the Crystal programming language and the framework Kermal. The application works by authenticating a user's JWTs on Auth0. The tutorial I followed on DZone was created by Robin Percy.
 
 https://dzone.com/articles/building-your-first-crystal-web-app-part-1
 
