@@ -1,18 +1,10 @@
 # challenger
 
-TODO: Write a description here
+A introductory web application that uses the Crystal programming language and the framework Kermal. The application works by authenticating a user's JWTs on Auth0 for storing login information and providing a front-end. The tutorial I followed on DZone was created by Robin Percy.
 
 ## Installation
 
-TODO: Write installation instructions here
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+https://dzone.com/articles/building-your-first-crystal-web-app-part-1
 
 ## Contributing
 
@@ -24,4 +16,5 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-github-user](https://github.com/your-github-user) mikejohnduran - creator, maintainer
+mikejohnduran - creator, maintainer
+Robin Percy, creator of the tutorial I followed. 
